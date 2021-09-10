@@ -1,0 +1,11 @@
+#include<bits/std.h>
+using namespace std;
+int main(){
+   int amount 1,amount 2;
+   cin>>amount 1>>amount 2;
+   
+   int sum=amount 1+amount 2;
+   
+   cout<<sum<<endl;
+   return0;
+   }
